@@ -27,7 +27,7 @@ Users should be able to:
 
 ![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/82536545/226925644-57fac171-a31f-4547-815c-f17be328bb06.png)
 
-- Solution URL: https://bc464.github.io/3-column-preview-card-component-main/
+- Solution URL: https://bc464.github.io/workit-landing-page/
 
 ### Built with
 
